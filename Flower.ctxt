@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xy\ maxHeight\ theCanvas
+comment0.target=Flower(objectdraw.Location,\ double,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ changeColor()
+comment2.params=point
+comment2.target=boolean\ flowerContains(objectdraw.Location)
+comment3.params=sun
+comment3.target=void\ grow(Sun)
+comment4.params=
+comment4.target=void\ wither()
+comment5.params=
+comment5.target=boolean\ hasBlossomed()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xpos\ ypos\ diameter\ theCanvas
+comment0.target=Sun(double,\ double,\ double,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ randomSunComesOut()
+comment2.params=
+comment2.target=boolean\ sunIsOut()
+numComments=3
