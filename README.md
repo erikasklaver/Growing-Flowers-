@@ -1,0 +1,2 @@
+# Growing-Flowers-
+ * When the user opens the window, a sun, ground and 1-3 furrows should appear. When the user clicks on   * a furrow, a red sprout should appear. When the user drags around the mouse a stem should grow. Also,   * when the user clicks on a furrow, the sun should either remain where it is or disappear randomly.  * Once the flower grows to its maximum height, if the sun is out, randomly colored petals will appear.   * If the sun is not out, no petals will appear and when the user releases the mouse, the sprout and stem will  * disappear. 
